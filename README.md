@@ -1,4 +1,4 @@
 # pagina-web
-Es una pagina realizada para el curso de Tecnolochicas 
+Es una pagina realizada en Tecnolochicas para una microempresa 
 
 REALIZADA POR ANALLELY HERNÁNDEZ RAMÍREZ
